@@ -5,10 +5,7 @@ Self Hosting is the practice of running and maintaining a website or service usi
 
 This takes away all the "unknown" factor in how your data is stored and processed by the big tech giants, providing the user to take complete control of their data without losing the functionality of the services they otherwise use frequently.
 
-<details>
-    <summary>
-    Examples
-    </summary>
+### Examples
 
 - Self Hosting your own version of app server to cut costs on subscriptions
   - NextCloud instead of Google Drive or Dropbox can save you around *$30 annually*
@@ -20,8 +17,6 @@ This takes away all the "unknown" factor in how your data is stored and processe
   - TypeBot instead of TypeForm can save you *$300 annually*
 
 And the list can go on. ([Visit complete list of Self Hosted solutions here](https://github.com/awesome-selfhosted/awesome-selfhosted))
-
-</details>
 
 ---
 ### List of things I've self-hosted personally:
